@@ -1,4 +1,4 @@
-package com.mohamedabdelaziz.aqwastask.models;
+package com.mohamedabdelaziz.aqwastask.trendinghome.domain.model;
 
 import static org.junit.Assert.*;
 import com.mohamedabdelaziz.aqwastask.trendinghome.domain.model.TrendingResponse;
