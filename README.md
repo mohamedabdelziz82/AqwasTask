@@ -1,6 +1,6 @@
 # AqwasTask
 I used the following technologies to make that task :
-## MVVM, Hilt, RXJava3, Retrofit, ViewModel,Espresso ,JUnit Test, LiveData, Data Binding, Room, ConstraintLayout, Glide, gson, ToolBar, and Solid principles .
+## MVVM, Hilt, RXJava3, Retrofit, ViewModel, Espresso, JUnit Test, LiveData, Data Binding, Room, ConstraintLayout, Glide, gson, ToolBar, and Solid principles .
 # Implemented by Clean Architecture
 The following diagram shows the structure of this project with 3 layers:
 - Presentation
