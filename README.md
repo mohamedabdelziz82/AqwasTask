@@ -6,4 +6,5 @@ The following diagram shows the structure of this project with 3 layers:
 - Presentation
 - Domain
 - Data
-- ![image](https://raw.githubusercontent.com/ZahraHeydari/Android-Clean-Architecture-MVVM-Hilt-RX/master/diagram.png?raw=true)
+
+![image](https://raw.githubusercontent.com/ZahraHeydari/Android-Clean-Architecture-MVVM-Hilt-RX/master/diagram.png?raw=true)
